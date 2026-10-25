@@ -1,0 +1,146 @@
+[
+  {
+    "area_id": "dhaka-mirpur10",
+    "area_name": "Mirpur 10 (Metro Corridor)",
+    "thana": "Mirpur",
+    "coordinates": {
+      "lat": 23.8071,
+      "lng": 90.3686
+    },
+    "demand_searches_30d": 48200,
+    "active_supply_count": 340,
+    "ratio_demand_supply": 141.7,
+    "average_rent_bdt": 22500,
+    "top_property_type": "family",
+    "market_pressure": "extreme_undersupply",
+    "search_velocity_growth_pct": 38.5
+  },
+  {
+    "area_id": "dhaka-bashundhara",
+    "area_name": "Bashundhara R/A (Uni Zone)",
+    "thana": "Vatara",
+    "coordinates": {
+      "lat": 23.8151,
+      "lng": 90.4255
+    },
+    "demand_searches_30d": 41500,
+    "active_supply_count": 480,
+    "ratio_demand_supply": 86.4,
+    "average_rent_bdt": 26000,
+    "top_property_type": "bachelor",
+    "market_pressure": "extreme_undersupply",
+    "search_velocity_growth_pct": 29.2
+  },
+  {
+    "area_id": "dhaka-dhanmondi",
+    "area_name": "Dhanmondi (Lakeside & Satmasjid Rd)",
+    "thana": "Dhanmondi",
+    "coordinates": {
+      "lat": 23.7541,
+      "lng": 90.3755
+    },
+    "demand_searches_30d": 36800,
+    "active_supply_count": 520,
+    "ratio_demand_supply": 70.7,
+    "average_rent_bdt": 52000,
+    "top_property_type": "family",
+    "market_pressure": "high_demand",
+    "search_velocity_growth_pct": 14.1
+  },
+  {
+    "area_id": "dhaka-uttara",
+    "area_name": "Uttara Sectors 3-11 (Metro Line)",
+    "thana": "Uttara",
+    "coordinates": {
+      "lat": 23.8682,
+      "lng": 90.3984
+    },
+    "demand_searches_30d": 38900,
+    "active_supply_count": 610,
+    "ratio_demand_supply": 63.7,
+    "average_rent_bdt": 31000,
+    "top_property_type": "family",
+    "market_pressure": "high_demand",
+    "search_velocity_growth_pct": 19.8
+  },
+  {
+    "area_id": "dhaka-gulshan",
+    "area_name": "Gulshan 1 & 2 Diplomatic Zone",
+    "thana": "Gulshan",
+    "coordinates": {
+      "lat": 23.7925,
+      "lng": 90.4167
+    },
+    "demand_searches_30d": 18200,
+    "active_supply_count": 390,
+    "ratio_demand_supply": 46.6,
+    "average_rent_bdt": 88000,
+    "top_property_type": "family",
+    "market_pressure": "balanced",
+    "search_velocity_growth_pct": 8.5
+  },
+  {
+    "area_id": "dhaka-banani",
+    "area_name": "Banani Commercial & Residential",
+    "thana": "Banani",
+    "coordinates": {
+      "lat": 23.7937,
+      "lng": 90.4043
+    },
+    "demand_searches_30d": 21500,
+    "active_supply_count": 320,
+    "ratio_demand_supply": 67.1,
+    "average_rent_bdt": 72000,
+    "top_property_type": "family",
+    "market_pressure": "high_demand",
+    "search_velocity_growth_pct": 12.3
+  },
+  {
+    "area_id": "dhaka-banasree",
+    "area_name": "Banasree Residential Area",
+    "thana": "Rampura",
+    "coordinates": {
+      "lat": 23.7635,
+      "lng": 90.4312
+    },
+    "demand_searches_30d": 19400,
+    "active_supply_count": 450,
+    "ratio_demand_supply": 43.1,
+    "average_rent_bdt": 21000,
+    "top_property_type": "family",
+    "market_pressure": "balanced",
+    "search_velocity_growth_pct": 10.2
+  },
+  {
+    "area_id": "dhaka-mohammadpur",
+    "area_name": "Mohammadpur (Tajmahal Rd & Ring Rd)",
+    "thana": "Mohammadpur",
+    "coordinates": {
+      "lat": 23.7658,
+      "lng": 90.3584
+    },
+    "demand_searches_30d": 28600,
+    "active_supply_count": 490,
+    "ratio_demand_supply": 58.3,
+    "average_rent_bdt": 23000,
+    "top_property_type": "family",
+    "market_pressure": "high_demand",
+    "search_velocity_growth_pct": 15.6
+  },
+  {
+    "area_id": "dhaka-nikunja",
+    "area_name": "Nikunja 1 & 2 (Airport Rd)",
+    "thana": "Khilkhet",
+    "coordinates": {
+      "lat": 23.8295,
+      "lng": 90.4191
+    },
+    "demand_searches_30d": 16400,
+    "active_supply_count": 210,
+    "ratio_demand_supply": 78.0,
+    "average_rent_bdt": 24500,
+    "top_property_type": "bachelor",
+    "market_pressure": "extreme_undersupply",
+    "search_velocity_growth_pct": 24.0
+  }
+]

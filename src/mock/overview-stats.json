@@ -1,0 +1,149 @@
+{
+  "total_users": 18450,
+  "users_growth_pct": 14.8,
+  "active_listings": 3280,
+  "listings_growth_pct": 22.4,
+  "pending_nid_count": 38,
+  "pending_geo_count": 12,
+  "pending_spam_count": 14,
+  "pending_property_count": 25,
+  "total_revenue_bdt": "4825000.00",
+  "revenue_growth_pct": 18.2,
+  "rent_agreements_generated": 1420,
+  "average_monthly_rent_bdt": "24500.00",
+
+  "users_analytics": {
+    "total_users": 18450,
+    "tenants_count": 13200,
+    "landlords_count": 4850,
+    "dual_role_count": 400,
+    "verified_landlords_count": 3950,
+    "flagged_brokers_count": 18,
+    "growth_pct": 14.8,
+    "active_contracts_count": 1420
+  },
+
+  "properties_analytics": {
+    "total_properties": 3650,
+    "active_listings": 3280,
+    "pending_approval": 25,
+    "rented_in_vault": 310,
+    "rejected": 20,
+    "flagged_spam": 15,
+    "growth_pct": 22.4,
+    "average_rent_bdt": 24500.0
+  },
+
+  "finance_analytics": {
+    "total_revenue_bdt": "4825000.00",
+    "growth_pct": 18.2,
+    "bills_paid_count": 1380,
+    "bills_pending_count": 120,
+    "bills_overdue_count": 35,
+    "collection_rate_pct": 96.2,
+    "total_platform_commission_bdt": "241250.00"
+  },
+
+  "fair_rent_breakdown": {
+    "fair_price": 2180,
+    "great_deal": 760,
+    "overpriced": 340
+  },
+
+  "category_breakdown": {
+    "family": 1940,
+    "bachelor": 980,
+    "sublet": 360,
+    "hostel": 80,
+    "duplex": 45
+  },
+
+  "monthly_revenue_history": [
+    { "month": "May 2026", "revenue": 3100000, "listings": 2100, "new_users": 1250 },
+    { "month": "Jun 2026", "revenue": 3450000, "listings": 2350, "new_users": 1420 },
+    { "month": "Jul 2026", "revenue": 3720000, "listings": 2580, "new_users": 1600 },
+    { "month": "Aug 2026", "revenue": 4150000, "listings": 2890, "new_users": 1780 },
+    { "month": "Sep 2026", "revenue": 4480000, "listings": 3050, "new_users": 1910 },
+    { "month": "Oct 2026", "revenue": 4825000, "listings": 3280, "new_users": 2080 }
+  ],
+
+  "top_demand_supply_areas": [
+    {
+      "area_name": "Mirpur 10",
+      "thana": "Mirpur",
+      "demand_searches": 48200,
+      "active_supply": 340,
+      "ratio_demand_supply": 141.7,
+      "average_rent_bdt": 22500,
+      "market_pressure": "extreme_undersupply"
+    },
+    {
+      "area_name": "Dhanmondi",
+      "thana": "Dhanmondi",
+      "demand_searches": 36500,
+      "active_supply": 210,
+      "ratio_demand_supply": 173.8,
+      "average_rent_bdt": 38000,
+      "market_pressure": "extreme_undersupply"
+    },
+    {
+      "area_name": "Gulshan 2",
+      "thana": "Gulshan",
+      "demand_searches": 19800,
+      "active_supply": 420,
+      "ratio_demand_supply": 47.1,
+      "average_rent_bdt": 85000,
+      "market_pressure": "balanced"
+    },
+    {
+      "area_name": "Uttara Sector 7",
+      "thana": "Uttara",
+      "demand_searches": 32400,
+      "active_supply": 280,
+      "ratio_demand_supply": 115.7,
+      "average_rent_bdt": 28500,
+      "market_pressure": "high_demand"
+    },
+    {
+      "area_name": "Bashundhara R/A",
+      "thana": "Vatara",
+      "demand_searches": 41200,
+      "active_supply": 190,
+      "ratio_demand_supply": 216.8,
+      "average_rent_bdt": 26000,
+      "market_pressure": "extreme_undersupply"
+    }
+  ],
+
+  "recent_activity": {
+    "recent_pending_nids": [
+      {
+        "id": "e8d98d28-0994-4b53-91ee-48c2c77df48c",
+        "landlord_name": "Kamal Hossain",
+        "landlord_phone": "+8801712345678",
+        "nid_number": "5928174920",
+        "ai_face_match_confidence": 94.6,
+        "submitted_at": "2026-10-21T14:30:00Z"
+      }
+    ],
+    "recent_pending_properties": [
+      {
+        "id": "84a4a584-6fb0-4e36-b6b6-8bb09825b741",
+        "title": "Modern 3-Bed Apartment near Metro",
+        "landlord_name": "Kamal Hossain",
+        "rent_amount": 24000.0,
+        "area_neighborhood": "Mirpur 10",
+        "submitted_at": "2026-10-21T18:00:00Z"
+      }
+    ],
+    "recent_spam_reports": [
+      {
+        "id": "71a2b3c4-9fa2-47e1-884c-3e61c304859a",
+        "property_title": "Cheap 3-Bed Flat in Dhanmondi",
+        "landlord_name": "Shamim Dalal",
+        "ai_confidence_score": 98.4,
+        "submitted_at": "2026-10-21T17:15:00Z"
+      }
+    ]
+  }
+}

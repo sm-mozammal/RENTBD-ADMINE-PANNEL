@@ -1,0 +1,68 @@
+[
+  {
+    "id": "geo-101",
+    "property_id": "prop-1001",
+    "property_title": "Modern 3-Bed Apartment near Mirpur 10 Metro Station",
+    "landlord_name": "Engr. Rafiqul Islam",
+    "landlord_phone": "+8801711234567",
+    "photo_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80",
+    "property_coordinates": {
+      "lat": 23.8071,
+      "lng": 90.3686,
+      "address": "House 42, Road 7, Block C, Mirpur 10"
+    },
+    "exif_coordinates": {
+      "lat": 23.80712,
+      "lng": 90.36858
+    },
+    "distance_difference_meters": 4,
+    "accuracy_meters": 5,
+    "captured_at": "2026-10-15T11:20:00Z",
+    "is_camera_live": true,
+    "status": "approved"
+  },
+  {
+    "id": "geo-102",
+    "property_id": "prop-1003",
+    "property_title": "Spacious Bachelor Friendly 2-Bed Flat near NSU & IUB",
+    "landlord_name": "Tariqul Alam Munna",
+    "landlord_phone": "+8801912445566",
+    "photo_url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=80",
+    "property_coordinates": {
+      "lat": 23.8151,
+      "lng": 90.4255,
+      "address": "Block C, Road 8, Bashundhara R/A"
+    },
+    "exif_coordinates": {
+      "lat": 23.81522,
+      "lng": 90.42571
+    },
+    "distance_difference_meters": 24,
+    "accuracy_meters": 12,
+    "captured_at": "2026-10-19T14:45:00Z",
+    "is_camera_live": true,
+    "status": "pending"
+  },
+  {
+    "id": "geo-103",
+    "property_id": "prop-1004",
+    "property_title": "SUSPICIOUS: 4-Bed Duplex in Dhanmondi for Only 12,000 BDT",
+    "landlord_name": "Shamim 'Media' Dalal",
+    "landlord_phone": "+8801688990011",
+    "photo_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=80",
+    "property_coordinates": {
+      "lat": 23.7541,
+      "lng": 90.3755,
+      "address": "Road 27 (Old), Dhanmondi"
+    },
+    "exif_coordinates": {
+      "lat": 23.7925,
+      "lng": 90.4167
+    },
+    "distance_difference_meters": 6200,
+    "accuracy_meters": 15,
+    "captured_at": "2026-10-20T11:50:00Z",
+    "is_camera_live": false,
+    "status": "flagged_gps_mismatch"
+  }
+]

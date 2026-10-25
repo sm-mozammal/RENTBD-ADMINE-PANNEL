@@ -1,0 +1,99 @@
+[
+  {
+    "id": "nid-req-501",
+    "landlord_id": "usr-103",
+    "landlord_name": "Tariqul Alam Munna",
+    "landlord_phone": "+8801912445566",
+    "landlord_email": "tariqul.munna@outlook.com",
+    "nid_number": "5928174920",
+    "nid_type": "smart_card",
+    "nid_front_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=700&auto=format&fit=crop&q=80",
+    "nid_back_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=700&auto=format&fit=crop&q=80",
+    "live_selfie_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500&auto=format&fit=crop&q=80",
+    "ai_face_match_confidence": 94.8,
+    "extracted_data": {
+      "name_bangla": "তারিকুল আলম মুন্না",
+      "name_english": "TARIQUL ALAM MUNNA",
+      "father_name": "MOHAMMAD NURUL ALAM",
+      "date_of_birth": "14 May 1985",
+      "address": "Holding 21, Road 4, Sector 7, Uttara, Dhaka-1230"
+    },
+    "status": "pending",
+    "reviewer_notes": "AI Face match above 90% threshold. OCR matched landlord name.",
+    "submitted_at": "2026-10-19T09:15:00Z"
+  },
+  {
+    "id": "nid-req-502",
+    "landlord_id": "usr-106",
+    "landlord_name": "Kazi Mahbubur Rahman",
+    "landlord_phone": "+8801712998877",
+    "landlord_email": "mahbub.kazi@gmail.com",
+    "nid_number": "19682691512000341",
+    "nid_type": "old_format",
+    "nid_front_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=700&auto=format&fit=crop&q=80",
+    "nid_back_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=700&auto=format&fit=crop&q=80",
+    "live_selfie_url": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=500&auto=format&fit=crop&q=80",
+    "ai_face_match_confidence": 91.2,
+    "extracted_data": {
+      "name_bangla": "কাজী মাহবুবুর রহমান",
+      "name_english": "KAZI MAHBUBUR RAHMAN",
+      "father_name": "LATE KAZI AZIZUR RAHMAN",
+      "date_of_birth": "02 Feb 1968",
+      "address": "House 18, Block B, Banasree, Rampura, Dhaka"
+    },
+    "status": "pending",
+    "reviewer_notes": "17-digit old format NID. High facial landmark similarity.",
+    "submitted_at": "2026-10-19T18:30:00Z"
+  },
+  {
+    "id": "nid-req-503",
+    "landlord_id": "usr-104",
+    "landlord_name": "Shamim 'Media' Dalal",
+    "landlord_phone": "+8801688990011",
+    "landlord_email": "shamim.broker24@gmail.com",
+    "nid_number": "7319482015",
+    "nid_type": "smart_card",
+    "nid_front_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=700&auto=format&fit=crop&q=80",
+    "nid_back_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=700&auto=format&fit=crop&q=80",
+    "live_selfie_url": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=500&auto=format&fit=crop&q=80",
+    "ai_face_match_confidence": 41.5,
+    "extracted_data": {
+      "name_bangla": "মোঃ শফিকুল ইসলাম",
+      "name_english": "MD SHAFIQUL ISLAM",
+      "father_name": "MD ABDUL JALIL",
+      "date_of_birth": "19 Aug 1992",
+      "address": "Holding 5, Mirpur 1, Dhaka"
+    },
+    "status": "rejected",
+    "rejection_reason": "AI Face match failed (41.5%). NID name 'MD SHAFIQUL ISLAM' does not match profile name. Suspected broker using third-party ID.",
+    "reviewer_notes": "Flagged to Anti-Broker registry.",
+    "submitted_at": "2026-10-18T14:10:00Z",
+    "reviewed_at": "2026-10-18T16:00:00Z",
+    "reviewed_by": "Admin #4 (Zakir)"
+  },
+  {
+    "id": "nid-req-504",
+    "landlord_id": "usr-101",
+    "landlord_name": "Engr. Rafiqul Islam",
+    "landlord_phone": "+8801711234567",
+    "landlord_email": "rafiqul.islam@gmail.com",
+    "nid_number": "4819503921",
+    "nid_type": "smart_card",
+    "nid_front_url": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=700&auto=format&fit=crop&q=80",
+    "nid_back_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=700&auto=format&fit=crop&q=80",
+    "live_selfie_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&auto=format&fit=crop&q=80",
+    "ai_face_match_confidence": 98.6,
+    "extracted_data": {
+      "name_bangla": "প্রকৌঃ রফিকুল ইসলাম",
+      "name_english": "ENGR. RAFIQUL ISLAM",
+      "father_name": "LATE AZIZUL HAQUE",
+      "date_of_birth": "11 Nov 1974",
+      "address": "House 42, Road 7, Block C, Mirpur 10, Dhaka"
+    },
+    "status": "approved",
+    "reviewer_notes": "Original property deed and utility bill cross-verified.",
+    "submitted_at": "2025-11-12T10:00:00Z",
+    "reviewed_at": "2025-11-12T11:30:00Z",
+    "reviewed_by": "SuperAdmin (Nafis)"
+  }
+]

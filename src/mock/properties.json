@@ -1,0 +1,481 @@
+[
+  {
+    "id": "21ce4208-1dc8-4bd4-b11d-e9fecb2f5a64",
+    "title": "1400 SqFt 3-Bed Family Friendly Modern Flat in Gulshan 2",
+    "description": "Spacious 1400 SqFt, 3-bedroom, 3-bathroom, 2-balcony apartment situated in Gulshan 2 on Floor 4. Includes modern tile finishing, wide road access, active line gas connection, with lift/elevator and generator backup, and continuous WASA water supply. Ideal for Family tenants looking for a peaceful and safe community with 24/7 building caretaker.",
+    "property_type": "APARTMENT",
+    "category": "family",
+    "rent_bdt": 29000,
+    "service_charge_bdt": 2000,
+    "advance_deposit_bdt": 29000,
+    "estimated_utilities_bdt": 0,
+    "total_move_in_cost_bdt": 60000,
+    "total_monthly_est": 31000,
+    "address": "Road 5, Block C, Gulshan 2, Dhaka",
+    "thana": "Gulshan 2",
+    "district": "Dhaka",
+    "coordinates": {
+      "lat": 23.8103,
+      "lng": 90.4125
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 2,
+    "size_sqft": 1400,
+    "floor_level": 4,
+    "total_floors": 10,
+    "is_available": true,
+    "is_vaulted": false,
+    "status": "active",
+    "alley_width_feet": 16.0,
+    "gas_supply": "LINE_GAS",
+    "waterlogging_risk": "NONE",
+    "water_quality": "EXCELLENT",
+    "night_safety_rating": 4.5,
+    "fair_price_meter": {
+      "status": "Fair Price",
+      "estimated_fair_rent": 20000,
+      "difference_percentage": 0.0,
+      "market_average_per_sqft": 14.3
+    },
+    "has_geo_verified_photo": true,
+    "landlord": {
+      "id": "95189876-8057-4381-b5a7-1cf230835f41",
+      "name": "Bariwala",
+      "phone": "+880 18•• ••••44",
+      "is_nid_verified": true,
+      "rating": 4.8
+    },
+    "photos": [
+      "http://localhost:8000/media/property_photos/scaled_f6bc57b1-a59f-4ed9-aeb6-7a5f5d531f054172791679531905404.jpg"
+    ],
+    "photo_details": [
+      {
+        "id": "08d879bc-d2dc-4a82-866f-c85d417fcd20",
+        "url": "http://localhost:8000/media/property_photos/scaled_f6bc57b1-a59f-4ed9-aeb6-7a5f5d531f054172791679531905404.jpg",
+        "tag": "LIVING_ROOM",
+        "is_cover": true,
+        "has_exif_gps": true,
+        "extracted_latitude": 23.8103,
+        "extracted_longitude": 90.4125
+      }
+    ],
+    "amenities": [
+      "Line Gas (Titas)",
+      "WASA Water Supply",
+      "Generator Backup",
+      "Lift / Elevator",
+      "24/7 Security & Caretaker",
+      "16ft Wide Road"
+    ],
+    "created_at": "2026-10-22T00:02:49+0600",
+    "updated_at": "2026-10-22T00:02:49+0600",
+    "views_count": 85,
+    "inquiries_count": 8
+  },
+  {
+    "id": "7a5fe9c8-51f0-4434-ba1d-2706fb193bb4",
+    "title": "2-Bed Bachelor Friendly Modern Flat in Mirpur 10",
+    "description": "Spacious and airy 2-bedroom, 2-bathroom apartment situated in Mirpur 10. Includes modern tile finishing, wide road access, active line gas connection, and continuous WASA water supply. Ideal for Bachelor tenants looking for a peaceful and safe community with 24/7 building caretaker.",
+    "property_type": "APARTMENT",
+    "category": "bachelor",
+    "rent_bdt": 20000,
+    "service_charge_bdt": 3500,
+    "advance_deposit_bdt": 20000,
+    "estimated_utilities_bdt": 2000,
+    "total_move_in_cost_bdt": 45500,
+    "total_monthly_est": 23500,
+    "address": "Mirput, Mirpur 10, Dhaka",
+    "thana": "Mirpur 10",
+    "district": "Dhaka",
+    "coordinates": {
+      "lat": 23.8103,
+      "lng": 90.4125
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 1,
+    "size_sqft": 1200,
+    "floor_level": 4,
+    "total_floors": 7,
+    "is_available": true,
+    "is_vaulted": false,
+    "status": "active",
+    "alley_width_feet": 16.0,
+    "gas_supply": "LINE_GAS",
+    "waterlogging_risk": "NONE",
+    "water_quality": "EXCELLENT",
+    "night_safety_rating": 4.5,
+    "fair_price_meter": {
+      "status": "Fair Price",
+      "estimated_fair_rent": 20000,
+      "difference_percentage": 0.0,
+      "market_average_per_sqft": 16.7
+    },
+    "has_geo_verified_photo": true,
+    "landlord": {
+      "id": "95189876-8057-4381-b5a7-1cf230835f41",
+      "name": "Bariwala",
+      "phone": "+880 18•• ••••44",
+      "is_nid_verified": true,
+      "rating": 4.8
+    },
+    "photos": [],
+    "photo_details": [],
+    "amenities": [
+      "Line Gas (Titas)",
+      "WASA Water Supply",
+      "Bachelor Allowed",
+      "24/7 Security & Caretaker",
+      "16ft Wide Road"
+    ],
+    "created_at": "2026-10-21T22:56:05+0600",
+    "updated_at": "2026-10-21T22:56:05+0600",
+    "views_count": 142,
+    "inquiries_count": 19
+  },
+  {
+    "id": "ef576553-d662-4b67-a4a1-c79a58229716",
+    "title": "Female Student Single Room Sublet near NSU & IUB",
+    "description": "Furnished single master bed sublet with attached bath and balcony for female university student. Includes shared high-speed WiFi, microwave, refrigerator, and maid service.",
+    "property_type": "SUBLET",
+    "category": "sublet",
+    "rent_bdt": 8500,
+    "service_charge_bdt": 1000,
+    "advance_deposit_bdt": 8500,
+    "estimated_utilities_bdt": 800,
+    "total_move_in_cost_bdt": 18800,
+    "total_monthly_est": 9500,
+    "address": "Block C, Bashundhara R/A, Dhaka",
+    "thana": "Bashundhara R/A",
+    "district": "Dhaka",
+    "coordinates": {
+      "lat": 23.8156,
+      "lng": 90.4267
+    },
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "balconies": 1,
+    "size_sqft": 280,
+    "floor_level": 3,
+    "total_floors": 6,
+    "is_available": true,
+    "is_vaulted": false,
+    "status": "active",
+    "alley_width_feet": 20.0,
+    "gas_supply": "CYLINDER",
+    "waterlogging_risk": "NONE",
+    "water_quality": "EXCELLENT",
+    "night_safety_rating": 4.9,
+    "fair_price_meter": {
+      "status": "Great Deal",
+      "estimated_fair_rent": 9500,
+      "difference_percentage": -10.0,
+      "market_average_per_sqft": 30.4
+    },
+    "has_geo_verified_photo": true,
+    "landlord": {
+      "id": "76a8695c-14db-42c0-a639-e9f34d7ffd94",
+      "name": "Dr. Shahriar Rahman",
+      "phone": "+880 18•• ••••55",
+      "is_nid_verified": true,
+      "rating": 4.8
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800"
+    ],
+    "photo_details": [
+      {
+        "id": "556b9eab-a6c9-4fdc-b032-36588c0149a0",
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800",
+        "tag": "WASHROOM",
+        "is_cover": false,
+        "has_exif_gps": true
+      },
+      {
+        "id": "cbc02d30-3816-4b26-ae57-0b1034a963cd",
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800",
+        "tag": "BEDROOM",
+        "is_cover": true,
+        "has_exif_gps": true
+      }
+    ],
+    "amenities": [
+      "LPG Cylinder",
+      "WASA Water Supply",
+      "Furnished",
+      "High-Speed WiFi",
+      "24/7 Security & Caretaker",
+      "20ft Wide Road"
+    ],
+    "created_at": "2026-10-21T00:44:12+0600",
+    "updated_at": "2026-10-21T00:44:12+0600",
+    "views_count": 210,
+    "inquiries_count": 34
+  },
+  {
+    "id": "d0f487b1-892e-492c-9238-1739a8aed288",
+    "title": "Premium 3-Bed Lakeview Flat in Dhanmondi",
+    "description": "Prestigious lakeside address in Dhanmondi 8/A. Granite countertops, master bath tub, south-east corner unit with unhindered breeze. 2 high speed passenger elevators.",
+    "property_type": "APARTMENT",
+    "category": "family",
+    "rent_bdt": 38000,
+    "service_charge_bdt": 5000,
+    "advance_deposit_bdt": 76000,
+    "estimated_utilities_bdt": 3000,
+    "total_move_in_cost_bdt": 122000,
+    "total_monthly_est": 43000,
+    "address": "Road 8/A, Dhanmondi, Dhaka",
+    "thana": "Dhanmondi",
+    "district": "Dhaka",
+    "coordinates": {
+      "lat": 23.7461,
+      "lng": 90.3742
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 2,
+    "size_sqft": 1600,
+    "floor_level": 6,
+    "total_floors": 12,
+    "is_available": true,
+    "is_vaulted": false,
+    "status": "active",
+    "alley_width_feet": 25.0,
+    "gas_supply": "LINE_GAS",
+    "waterlogging_risk": "MILD",
+    "water_quality": "EXCELLENT",
+    "night_safety_rating": 4.7,
+    "fair_price_meter": {
+      "status": "Overpriced",
+      "estimated_fair_rent": 34000,
+      "difference_percentage": 11.5,
+      "market_average_per_sqft": 23.75
+    },
+    "has_geo_verified_photo": true,
+    "landlord": {
+      "id": "0b4626eb-f2ac-417e-9f89-3868977c0d24",
+      "name": "Engr. Farhan Kabir",
+      "phone": "+880 17•• ••••44",
+      "is_nid_verified": true,
+      "rating": 4.9
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800",
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800"
+    ],
+    "photo_details": [
+      {
+        "id": "bb834cf1-2baf-4a75-b9da-42b050245459",
+        "url": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=800",
+        "tag": "BEDROOM",
+        "is_cover": true,
+        "has_exif_gps": true
+      },
+      {
+        "id": "71b6905d-fdc5-41ea-9368-6b6c17f24d56",
+        "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800",
+        "tag": "LIVING_ROOM",
+        "is_cover": false,
+        "has_exif_gps": true
+      }
+    ],
+    "amenities": [
+      "Line Gas (Titas)",
+      "WASA Water Supply",
+      "Lift / Elevator",
+      "Generator Backup",
+      "24/7 Security & Caretaker",
+      "25ft Wide Road"
+    ],
+    "created_at": "2026-10-21T00:44:12+0600",
+    "updated_at": "2026-10-21T00:44:12+0600",
+    "views_count": 312,
+    "inquiries_count": 41
+  },
+  {
+    "id": "7969b9a2-ad74-413b-97cb-b2bd6097c85a",
+    "title": "Spacious 3-Bed Family Apartment overlooking Park",
+    "description": "Ideal family home in quiet residential Sector 4 Uttara. Double lift, standby full generator backup, CCTV surveillance, dedicated car parking slot on ground floor, and active Titas line gas connection.",
+    "property_type": "APARTMENT",
+    "category": "family",
+    "rent_bdt": 28000,
+    "service_charge_bdt": 4000,
+    "advance_deposit_bdt": 56000,
+    "estimated_utilities_bdt": 2500,
+    "total_move_in_cost_bdt": 90500,
+    "total_monthly_est": 32000,
+    "address": "Road 7, Sector 4, Uttara, Dhaka",
+    "thana": "Uttara Sector 4",
+    "district": "Dhaka",
+    "coordinates": {
+      "lat": 23.8681,
+      "lng": 90.3984
+    },
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "balconies": 3,
+    "size_sqft": 1450,
+    "floor_level": 5,
+    "total_floors": 9,
+    "is_available": true,
+    "is_vaulted": false,
+    "status": "active",
+    "alley_width_feet": 30.0,
+    "gas_supply": "LINE_GAS",
+    "waterlogging_risk": "NONE",
+    "water_quality": "EXCELLENT",
+    "night_safety_rating": 4.9,
+    "fair_price_meter": {
+      "status": "Fair Price",
+      "estimated_fair_rent": 27500,
+      "difference_percentage": 1.2,
+      "market_average_per_sqft": 19.3
+    },
+    "has_geo_verified_photo": true,
+    "landlord": {
+      "id": "76a8695c-14db-42c0-a639-e9f34d7ffd94",
+      "name": "Dr. Shahriar Rahman",
+      "phone": "+880 18•• ••••55",
+      "is_nid_verified": true,
+      "rating": 4.8
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800"
+    ],
+    "photo_details": [
+      {
+        "id": "d8bfb3e1-f163-4946-8c87-59896c1f3edb",
+        "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+        "tag": "KITCHEN",
+        "is_cover": false,
+        "has_exif_gps": true
+      },
+      {
+        "id": "c59ed6d3-a5c6-423e-98c7-9cf8abcccc44",
+        "url": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800",
+        "tag": "BEDROOM",
+        "is_cover": true,
+        "has_exif_gps": true
+      },
+      {
+        "id": "7328bd97-2f26-4620-a8cc-b6fdd99f6225",
+        "url": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+        "tag": "LIVING_ROOM",
+        "is_cover": false,
+        "has_exif_gps": true
+      }
+    ],
+    "amenities": [
+      "Line Gas (Titas)",
+      "WASA Water Supply",
+      "Double Lift",
+      "Generator Backup",
+      "Car Parking",
+      "CCTV Surveillance",
+      "30ft Wide Road"
+    ],
+    "created_at": "2026-10-21T00:44:12+0600",
+    "updated_at": "2026-10-21T00:44:12+0600",
+    "views_count": 189,
+    "inquiries_count": 27
+  },
+  {
+    "id": "51fcc150-f99f-4770-8e0f-991852f96daa",
+    "title": "2-Bed Modern Flat near Mirpur 10 Metro Station",
+    "description": "South-facing apartment with immense natural ventilation and two spacious balconies. Located just a 3-minute walk from Mirpur 10 Metro Gate 2. Bachelor-friendly with 24/7 building security and separate sub-meter electricity.",
+    "property_type": "APARTMENT",
+    "category": "bachelor",
+    "rent_bdt": 16500,
+    "service_charge_bdt": 2500,
+    "advance_deposit_bdt": 33000,
+    "estimated_utilities_bdt": 1800,
+    "total_move_in_cost_bdt": 53800,
+    "total_monthly_est": 19000,
+    "address": "Road 14, Block C, Mirpur 10, Dhaka",
+    "thana": "Mirpur 10",
+    "district": "Dhaka",
+    "coordinates": {
+      "lat": 23.8069,
+      "lng": 90.3686
+    },
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "balconies": 2,
+    "size_sqft": 920,
+    "floor_level": 4,
+    "total_floors": 7,
+    "is_available": true,
+    "is_vaulted": false,
+    "status": "active",
+    "alley_width_feet": 22.0,
+    "gas_supply": "LINE_GAS",
+    "waterlogging_risk": "NONE",
+    "water_quality": "EXCELLENT",
+    "night_safety_rating": 4.8,
+    "fair_price_meter": {
+      "status": "Great Deal",
+      "estimated_fair_rent": 18000,
+      "difference_percentage": -8.5,
+      "market_average_per_sqft": 17.9
+    },
+    "has_geo_verified_photo": true,
+    "landlord": {
+      "id": "0b4626eb-f2ac-417e-9f89-3868977c0d24",
+      "name": "Engr. Farhan Kabir",
+      "phone": "+880 17•• ••••44",
+      "is_nid_verified": true,
+      "rating": 4.9
+    },
+    "photos": [
+      "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800",
+      "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800"
+    ],
+    "photo_details": [
+      {
+        "id": "a86ba385-4615-4eb2-bef5-757f724368a8",
+        "url": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800",
+        "tag": "WASHROOM",
+        "is_cover": false,
+        "has_exif_gps": true
+      },
+      {
+        "id": "a2e9c6df-6517-4b2e-bb41-338881f27e63",
+        "url": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?w=800",
+        "tag": "KITCHEN",
+        "is_cover": false,
+        "has_exif_gps": true
+      },
+      {
+        "id": "3a63a4cf-129d-428a-afdd-c25a2caba45d",
+        "url": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800",
+        "tag": "BEDROOM",
+        "is_cover": true,
+        "has_exif_gps": true
+      },
+      {
+        "id": "8fc32141-d2a2-48e2-9a1c-dc82bd6ec72a",
+        "url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800",
+        "tag": "LIVING_ROOM",
+        "is_cover": false,
+        "has_exif_gps": true
+      }
+    ],
+    "amenities": [
+      "Line Gas (Titas)",
+      "WASA Water Supply",
+      "Bachelor Allowed",
+      "24/7 Security",
+      "22ft Wide Road"
+    ],
+    "created_at": "2026-10-21T00:44:12+0600",
+    "updated_at": "2026-10-21T00:44:12+0600",
+    "views_count": 340,
+    "inquiries_count": 48
+  }
+]

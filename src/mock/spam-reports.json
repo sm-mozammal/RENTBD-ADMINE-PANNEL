@@ -1,0 +1,90 @@
+[
+  {
+    "id": "spam-801",
+    "property_id": "prop-1004",
+    "property_title": "SUSPICIOUS: 4-Bed Duplex in Dhanmondi for Only 12,000 BDT",
+    "landlord_name": "Shamim 'Media' Dalal",
+    "landlord_phone": "+8801688990011",
+    "rent_bdt": 12000,
+    "average_area_rent": 68000,
+    "flags": [
+      {
+        "type": "suspicious_low_rent",
+        "description": "Rent of ৳12,000 is 82.3% lower than Dhanmondi area baseline (৳68,000 avg for 2400 sqft). Common advance deposit scam vector.",
+        "severity": "critical"
+      },
+      {
+        "type": "duplicate_photo",
+        "description": "Perceptual Image Hash match (distance: 2 bits) with Gulshan Luxury listing prop-1002.",
+        "severity": "critical"
+      },
+      {
+        "type": "blacklisted_broker_phone",
+        "description": "Phone +8801688990011 flagged across 14 rejected broker profiles on RentBD.",
+        "severity": "high"
+      }
+    ],
+    "ai_confidence_score": 98.4,
+    "duplicate_match": {
+      "original_property_id": "prop-1002",
+      "original_property_title": "Luxury Lake-Facing Flat in Gulshan 2 (Diplomatic Zone)",
+      "original_landlord_name": "Dr. Farzana Akhtar",
+      "image_hash_distance": 2,
+      "matched_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=80",
+      "current_image_url": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=80"
+    },
+    "detected_at": "2026-10-20T12:05:00Z",
+    "status": "pending_review"
+  },
+  {
+    "id": "spam-802",
+    "property_id": "prop-1007",
+    "property_title": "Furnished Flat for Bachelor in Mirpur 2",
+    "landlord_name": "Al-Amin Traders (Broker)",
+    "landlord_phone": "+8801700998811",
+    "rent_bdt": 7500,
+    "average_area_rent": 14000,
+    "flags": [
+      {
+        "type": "plagiarized_description",
+        "description": "94% verbatim text match with Bikroy listing #981249 with fake contact numbers in body text.",
+        "severity": "medium"
+      },
+      {
+        "type": "suspicious_low_rent",
+        "description": "Rent 46% below Mirpur bachelor market median.",
+        "severity": "medium"
+      }
+    ],
+    "ai_confidence_score": 87.2,
+    "duplicate_match": {
+      "original_property_id": "prop-1001",
+      "original_property_title": "Modern 3-Bed Apartment near Mirpur 10 Metro Station",
+      "original_landlord_name": "Engr. Rafiqul Islam",
+      "image_hash_distance": 6,
+      "matched_image_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80",
+      "current_image_url": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&auto=format&fit=crop&q=80"
+    },
+    "detected_at": "2026-10-19T17:40:00Z",
+    "status": "pending_review"
+  },
+  {
+    "id": "spam-803",
+    "property_id": "prop-1008",
+    "property_title": "1-Room Sublet in Farmgate",
+    "landlord_name": "Helal Uddin",
+    "landlord_phone": "+8801822334455",
+    "rent_bdt": 4000,
+    "average_area_rent": 5500,
+    "flags": [
+      {
+        "type": "fake_phone_pattern",
+        "description": "Contact info contains banned characters and attempts to bypass in-app masked calling.",
+        "severity": "low"
+      }
+    ],
+    "ai_confidence_score": 72.5,
+    "detected_at": "2026-10-18T11:20:00Z",
+    "status": "listing_banned"
+  }
+]
